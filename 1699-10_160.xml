@@ -1,11 +1,9 @@
 <div type="article" xml:id="1699-10_160" resp="CRSH">
                 <head>« M<hi rend="sup">r</hi> de Pointis nommé Chef d’Escadre »</head>
                 <bibl><hi rend="italic">Mercure galant</hi>, octobre 1699,
-                    p. 160-167<hi rend="sup"><note xml:id="_ftn0" resp="editor" n="1"><hi
-                                rend="color(#000000)"> [NDÉ] Cette nouvelle est reproduite dans le
-                                cadre du projet « Mercure galant », disponible en ligne sur </hi><hi
-                                rend="color(#000000)italic">Obvil</hi><hi rend="color(#000000)"
-                                >.</hi></note></hi>.</bibl>
+                    p. 160-167<hi rend="sup"><note xml:id="_ftn0" resp="editor" n="1"> [NDÉ] Cette nouvelle est reproduite dans le
+                                cadre du projet « Mercure galant », disponible en ligne sur <hi
+                                rend="italic">Obvil</hi>.</note></hi>.</bibl>
                 <p>M<hi rend="sup">r</hi> le Baron de Pointis a esté fait Chef d’Escadre des
                         Armées Navales de Sa Majesté. Vous sçavez qu’il avoit eu le 
                         Commandement de la Flote envoyée contre Cartagène, et qu’il s’y estoit
@@ -44,9 +42,9 @@
                 <p>Tu tires de ses Forts sa dépouïlle brillante,</p>
                 <p>Et ton pouvoir plus grand rend l’Espagne impuissante</p>
                 <p>De sauver de tes mains sa riche Toison d’or.</p>
-                <p>Les monstres de la Mer, les pestes<hi rend="sup color(#000000)"><note
-                    xml:id="_ftn1" resp="author" place="margin" n="2"><hi rend="color(#000000)"> [NDA] M<hi rend="sup">r</hi> de
-                                Pointis fut malade de la peste.</hi></note></hi>, les tempestes,</p>
+                <p>Les monstres de la Mer, les pestes<hi rend="sup "><note
+                    xml:id="_ftn1" resp="author" place="margin" n="2"> [NDA] M<hi rend="sup">r</hi> de
+                                Pointis fut malade de la peste.</note></hi>, les tempestes,</p>
                 <p>Ne peuvent point donner de frein à tes Conquestes. </p>
                 <p>Hercule avoit vaincu cent Monstres furieux ; </p>
                 <p>Mais il ne put fléchir l’Ocean Atlantique.</p>
